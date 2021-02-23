@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ammar, a software devolopment studen at Høyskolen Kristiania in Oslo , Norway.
+I'm Ammar, a software devolopment student at Høyskolen Kristiania in Oslo , Norway.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ammar1992-MK&count_private=true&show_icons=true&theme=radical)
 
