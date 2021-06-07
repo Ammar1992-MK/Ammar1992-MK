@@ -6,7 +6,7 @@ I'm Ammar, a software devolopment student at Høyskolen Kristiania in Oslo , Nor
 
 I have experience with :
 
-React - Kotlin - Java - Javascript - eactNative - TML - CSS
+React - Kotlin - Java - Javascript - ReactNative - HTML - CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar1992-MK&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
